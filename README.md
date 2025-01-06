@@ -15,7 +15,7 @@ Designed a dual-port memory unit in VHDL with 1024x16-bit storage, supporting si
 # Dual port
 it has two ports
 # Simple
-The Simple Dual Port RAM block models RAM that supports simultaneous read and write operations, and has a single output port for read data. You can use this block to generate HDL code that maps to RAM in most FPGAs.
+
 ![images (1)](https://github.com/user-attachments/assets/2e20c7fe-6b25-4fbc-aabc-c7a2b1248565)
 
 # True dual port
