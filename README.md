@@ -10,7 +10,6 @@ Designed a dual-port memory unit in VHDL with 1024x16-bit storage, supporting si
   a.simple
   b.true
 # Single port 
-  
   ![images](https://github.com/user-attachments/assets/42fc6a6e-bcfa-4c2f-ae21-61365927c825)
 
 # Dual port
